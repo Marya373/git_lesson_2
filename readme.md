@@ -3,7 +3,7 @@ Hello!
 ![договор](1_1.jpg)
 
 
-* Подготовка к работе *
+
 
 ##  Подготовка к работе
 *1.	Скачать и установить VS Code* https://code.visualstudio.com/docs/?dv=win
