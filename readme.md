@@ -1,6 +1,10 @@
 Hello!
 
+<<<<<<< HEAD
 Еле успела!
+=======
+ghjghghkghkkh change
+>>>>>>> numbered_list
 
 
 * Подготовка к работе *
