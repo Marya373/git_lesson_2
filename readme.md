@@ -1,8 +1,10 @@
 Hello!
 
-ghjghghkghkkh
+### ghjghghkghkkh ###
 
-Подготовка к работе
+
+* Подготовка к работе *
+
 1.	Скачать и установить VS Code https://code.visualstudio.com/docs/?dv=win
 2.	Скачать и установить Git https://git-scm.com/download/win
 3.	Проверить, работает ли git  с помощью команды 
